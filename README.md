@@ -4,5 +4,5 @@
 
 - :orange_book: Focusing on NLP & ML
 - :hammer: Creator of model and frameworks
-- :ram: Founder the ObjCCN
+- :ram: I am a worker(我是打工人)
 - :meat_on_bone: Meat lover
