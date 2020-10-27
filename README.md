@@ -1,12 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shawroad&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-Here are some ideas to get you started:
+### 你好，世界 👋
 
-- 🔭 I’m currently working on NLP.
-- 🌱 I’m currently learning Rerank.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: luxiaonlp@163.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :orange_book: Focusing on NLP & ML
+- :hammer: Creator of model and frameworks
+- :ram: Founder the ObjCCN
+- :meat_on_bone: Meat lover
